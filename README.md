@@ -1,3 +1,4 @@
+is this a paid code if yes please tell how to buy and how to use this as this will be very beneicail for the users
 # vpn-manegment-panel-
 I Need VPN Management Panel  
 PPTP / SSL/ SSH/ SSH Tunnel/ Openconnect/ Openvpn     
